@@ -75,4 +75,13 @@ April 1 < T < Spring break, Final testing and tweaking
 
 ### Week 1
 
+#### Goal
+
+Start designing the rocket and mortar in onshape and get a good idea of what the project is going to look like.
+
+#### Progress
+
++ Rough Mortar design in onshape
+<img src="images/Mortardesign1" alt="Left View" width="250" height="250">
+
 
