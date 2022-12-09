@@ -71,4 +71,8 @@ April 1 < T < Spring break, Final testing and tweaking
 #### Block Diagram
 <img src="images/Block%20diagram.jpg" alt="Left View" width="500" height="500">
 
+## Project Timeline
+
+### Week 1
+
 
