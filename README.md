@@ -62,13 +62,13 @@ April 1 < T < Spring break, Final testing and tweaking
 
 ### Diagrams
 
-## Rocket Diagram
+#### Rocket Diagram
 <img src="images/Rocket%20Sketch.jpg" alt="Left View" width="500" height="500">
 
-## Mortar Diagram
+#### Mortar Diagram
 <img src="images/Mortar%20Sketch.jpg" alt="Left View" width="500" height="500">
 
-## Block Diagram
+#### Block Diagram
 <img src="images/Block%20diagram.jpg" alt="Left View" width="500" height="500">
 
 
