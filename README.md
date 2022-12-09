@@ -82,6 +82,6 @@ Start designing the rocket and mortar in onshape and get a good idea of what the
 #### Progress
 
 + Rough Mortar design in onshape
-<img src="images/Mortardesign1" alt="Left View" width="250" height="250">
+<img src="images/Mortardesign1.PNG" alt="Left View" width="300" height="300">
 
 
