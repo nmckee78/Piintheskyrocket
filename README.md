@@ -83,7 +83,7 @@ Start designing the rocket and mortar in onshape and get a good idea of what the
 
 + Rough Mortar design in onshape
 <img src="images/Mortardesign1.PNG" alt="Left View" width="300" height="300">
-+ Brainstorming 
-Figuring out exact ideas for the shell of the bottle rocket, mortar will be set at 45 degree angle to maximize distance.
+
++ Brainstorming- Figuring out exact ideas for the shell of the bottle rocket, mortar will be set at 45 degree angle to maximize distance.
 
 
