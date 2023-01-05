@@ -87,3 +87,18 @@ Start designing the rocket and mortar in onshape and get a good idea of what the
 + Brainstorming- Figuring out exact ideas for the shell of the bottle rocket, mortar will be set at 45 degree angle to maximize distance.
 
 
+### rocket body CAD
+
+###Description
+The rocket body consists of a cage with fins for a 2 litre bottle, a threaded cylandir for the electronics, and a nose cone that releases and contains a parachute.
+
+###Picture
+![image](https://user-images.githubusercontent.com/71349802/210859839-53779b2c-4f5f-4887-a8f3-da3c8a6a5ef5.png)
+
+###Reflection
+This CAD was odly hard. It requires makeing new planes. And most of all, you need a picture of a 2 litre to scetch you outline off of.
+
+
+
+
+
