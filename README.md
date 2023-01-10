@@ -52,7 +52,7 @@ T < December 5, Planning and document
 
 December 5 < T < December 25, Onshape design
 
-December 25 < T < January 25, Phisysical building
+December 25 < T < January 25, Coding
 
 January 25 < T < March 1, Testing and refineing rocket 
 
@@ -73,9 +73,9 @@ April 1 < T < Spring break, Final testing and tweaking
 
 ## Project Timeline
 
-### Week 1
+### Week 1(Dec. 5th - Dec. 9th)
 
-#### Goal
+#### Goals
 
 Start designing the rocket and mortar in onshape and get a good idea of what the project is going to look like.
 
@@ -84,19 +84,45 @@ Start designing the rocket and mortar in onshape and get a good idea of what the
 + Rough Mortar design in onshape
 <img src="images/Mortardesign1.PNG" alt="Left View" width="300" height="300">
 
-+ Brainstorming- Figuring out exact ideas for the shell of the bottle rocket, mortar will be set at 45 degree angle to maximize distance.
++ Brainstorming - Figuring out exact ideas for the shell of the bottle rocket, mortar will be set at 45 degree angle to maximize distance.
+
+### Week 2(Dec. 12th - Dec. 16th)
+
+#### Goals
+
+Continue work on rocket shell and refine ideas for assembley and specifics of the mechanisms of the rocket and what it'll be able to do
+
+#### Progress 
+
++ Intial design of rocket mostly complete, created the casing that will go around the actual bottle. Still need to design the area to hold the electronics and parachute
+
++ Concept for launch sequence mostly formulated and designed, pvc cap will have a hole drilled through it to hold the nail which will pierce the bottle and launch it. There will also be holes to drain excess water from the bottom of the mortar through the cap
+
++ Design for mortar holder completed 
+
++ Brainstorming - Best way to integrate a parachute while also fufilling perameters of the project is to have servos in the top of the rocket casing to spin, releasing the cap of the rocket casing, allowing the parachute to deploy. These servos will activate the parachute at a set height which will be calculated using an altimeter in the rocket.
+
+### Week 3(Jan. 3rd - Jan. 6th)
+
+#### Goals
+
+Finish the onshape design for the project and make sure the rocket casing will be able to hold all electronics that are needed and fully be able to fufill our project goals
+
+#### Progress
+
++ Completion of the onshape design for the rocket casing
+<img src="images/Rocketcasing1.PNG" alt="Left View" width="500" height="500">
+
++ Completion of holders for electornics inside casing(Circuit board, Servos)
+
+#### Servo Design
+<img src="images/Electronic1.PNG" alt="Left View" width="250" height="250">
+
+#### Circuit Board Design
+<img src="images/Electronic2.PNG" alt="Left View" width="250" height="250">
 
 
-### rocket body CAD
 
-###Description
-The rocket body consists of a cage with fins for a 2 litre bottle, a threaded cylandir for the electronics, and a nose cone that releases and contains a parachute.
-
-###Picture
-![image](https://user-images.githubusercontent.com/71349802/210859839-53779b2c-4f5f-4887-a8f3-da3c8a6a5ef5.png)
-
-###Reflection
-This CAD was odly hard. It requires makeing new planes. And most of all, you need a picture of a 2 litre to scetch you outline off of.
 
 
 
