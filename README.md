@@ -130,7 +130,8 @@ Starting the coding process and formulating how the parchute will deploy
 #### Progress
 
 + Starting the code for the parachute trigger when the rocket reaches a certain altitude and for the button to reattach the nose cone
-[Code for the parachute](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
+
++ [Code for the parachute](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
 
 + Brainstorming Ideas - What angle do the servos need to be to properly release? - Answer: 180, How to make sure the parachute won't get stuck on the servos? - Answer: Some sort of protective layer or sheet between the two, not fully figured out, Will the servos have enough power to hold the cone on all by themselves - Answer: Need to test to find out
 
