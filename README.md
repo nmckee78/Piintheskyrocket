@@ -121,7 +121,7 @@ Finish the onshape design for the project and make sure the rocket casing will b
 #### Circuit Board Design
 <img src="images/Electronic2.PNG" alt="Left View" width="250" height="250">
 
-### Week 4(Jan. 9th - 14th)
+### Week 4(Jan. 9th - Jan. 13th)
 
 #### Goals
 
@@ -134,6 +134,19 @@ Starting the coding process and formulating how the parchute will deploy
 + [Code for the parachute](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
 
 + Brainstorming Ideas - What angle do the servos need to be to properly release? - Answer: 180, How to make sure the parachute won't get stuck on the servos? - Answer: Some sort of protective layer or sheet between the two, not fully figured out, Will the servos have enough power to hold the cone on all by themselves - Answer: Need to test to find out
+
+### Week 5(Jan. 17th - Jan. 20th)
+
+#### Goals
+
+Create code for data collection 
+
+#### Progress 
+
++ Started coding for the data collection, got pretty stuck.
+
++[Assembled Code](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
+
 
 
 
