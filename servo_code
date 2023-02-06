@@ -17,12 +17,15 @@ sda_pin =  board.GP14
 scl_pin =  board.GP15
 i2c = busio.I2C(scl_pin, sda_pin)
 sensor = adafruit_mpl3115a2.MPL3115A2(i2c)
+f = open("altimeter_data.txt", "w")
+threshold_altitude = 183
 
-threshold_altitude = x # Depends on pressure on given day because the altimeter reading are pressure not altitude
 
 while True:
     altitude = sensor.altitude
     print(altitude)
+    f.write(str(altitude) + "\n")
+    time.sleep(1)
     if button.value == True and altitude <= threshold_altitude:
         servo1.angle = 0
         servo2.angle = 0
