@@ -17,15 +17,22 @@ sda_pin =  board.GP14
 scl_pin =  board.GP15
 i2c = busio.I2C(scl_pin, sda_pin)
 sensor = adafruit_mpl3115a2.MPL3115A2(i2c)
-f = open("altimeter_data.txt", "w")
 threshold_altitude = 183
+list_altitude = []
+list_time = []
+launch = 0
+landed = 0
+list_check_length = 30
 
-
-while True:
+while landed==0:
     altitude = sensor.altitude
     print(altitude)
-    f.write(str(altitude) + "\n")
-    time.sleep(1)
+    list_altitude.append(altitude)
+    list_time.append(time.monotonic())
+    if len(list_altitude) < 30:
+        continue
+    if list_altitude[-1] - list_altitude[-list_check_length] > 2:
+        launch = 1
     if button.value == True and altitude <= threshold_altitude:
         servo1.angle = 0
         servo2.angle = 0
@@ -41,4 +48,12 @@ while True:
         servo2.angle = 180
         servo3.angle = 180
         servo4.angle = 180
+    print(list_altitude)
+    print(list_time)
+    if list_altitude[-list_check_length] - list_altitude[-1] > 2 and launch == 1:
+        landed = 1
+Values=open(f"/data/{time.monotonic()}.csv","w")
+for i in range(len(list_altitude)):
+    Values.write(f"{list_time[i]}{list_altitude[i]}\n")
+Values.close
     
