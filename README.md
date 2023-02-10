@@ -145,7 +145,7 @@ Create code for data collection
 
 + Started coding for the data collection, got pretty stuck.
 
-+[Assembled Code](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
++ [Assembled Code](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
 
 ### Week 6(Jan. 23rd - Jan. 27th)
 
