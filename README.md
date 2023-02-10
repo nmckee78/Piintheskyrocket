@@ -147,6 +147,56 @@ Create code for data collection
 
 +[Assembled Code](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
 
+### Week 6(Jan. 23rd - Jan. 27th)
+
+#### Goals
+
+Continue to work on code, brainstorm ideas to improve the rocket.
+
+#### Progress
+
++ Continued to try to work out the code, continued to be stuck
+
++ Brainstormed ideas to improve the rocket(Incl. Smaller nose cone, Weight reducing in bottom of rocket, better threads.
+
++ 3d printed first part of the rocket, went well
+
+### Week 7(Jan. 30th - Feb. 3rd)
+
+#### Goals
+
+Keep working on code, implement rocket ideas
+
+#### Progress 
+
++ Started to figure out the code but still not implementing it
+
++ Discussed more ways to reduce weight and increase efficency in the rocket 
+
++ Added more slits in bottom of rocket, 3d printed test threads(Did not work)
+
++ Made new threads 
+
+### Week 8(Feb. 6th - Feb. 10th)
+
+#### Goals
+
+Actually finish the code, get more pieces of the rocket, continue to refine rocket design
+
+#### Progress
+
++ Finished the code! 
+
++ [Final code](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
+
++ Printed middle part of rocket, might need to redesign, kinda flimsy
+
++ Printed working threads 
+
++ Continued to improve cad design
+
++ Started to think about parachute implemenation
+
 
 
 
