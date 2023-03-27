@@ -198,6 +198,26 @@ Actually finish the code, get more pieces of the rocket, continue to refine rock
 + Started to think about parachute implemenation
 
 
+### Week 9(Feb 13- Feb 17th)
+
+#### Goals
+
+-Make the parachute.
+
+#### Progress
+- This week I made the parachute. I did this by cutting out a 50 cm radius circle from trash bag. I then put duck tape patchs around the edge for reanforcement, and punched holes for strings. I tied strings to the hols than tied all of those to a main cord and the parachute was done.
+
+
+
+### Week 9(Feb 20- Feb 24th)
+
+#### Goals
+Fly the paracute successfully.
+
+#### Progress
+
+-We threw the parachute off the hill tied to a 2x4 and it succesfully deployed. At first it was not openning in time and we discoverd that to make it open fast enough we had too shorted the main cord and not fold it as many times. After this innnovation we succeded in makeing it work consistanly.
+![tttttttttttttttttttttttttttttttttttttttt](https://user-images.githubusercontent.com/71349802/228027597-664a32d2-6511-4d61-bc7f-eef399ca2184.gif)
 
 
 
