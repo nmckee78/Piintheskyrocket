@@ -267,4 +267,6 @@ Actually finish the code, get more pieces of the rocket, continue to refine rock
 
 #### Progress
 
+### Launch 1
 
+The first launch very nearly worked. Everything went correctly, the cone latched on, the servos were working and the rocket went in a perfect parabolic arc. However, even though the servos unlatched, the cone never fully popped off, meaning the parachute never deployed and after perfectly flying through the air it crashed into the ground and shatterd. Luckily, the circuit board and all the electronics were protected but nearly all the rest of the rocket was destroyed.
