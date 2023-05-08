@@ -37,28 +37,27 @@ while landed==0:
     if list_altitude[-5] > list_altitude[-1] and launch == 1:
         threshold_altitude = 1
     if button.value == True and threshold_altitude == 0:
-        servo1.angle = 45
-        servo2.angle = 45
-        servo3.angle = 45
-        servo4.angle = 45
+        servo1.angle = 0
+        servo2.angle = 0
+        servo3.angle = 0
+        servo4.angle = 0
     if button.value == False:
-        servo1.angle = 0
-        servo2.angle = 0
-        servo3.angle = 0
-        servo4.angle = 0
+        servo1.angle = 180
+        servo2.angle = 180
+        servo3.angle = 180
+        servo4.angle = 180
     if threshold_altitude == 1:
-        servo1.angle = 0
-        servo2.angle = 0
-        servo3.angle = 0
-        servo4.angle = 0
+        servo1.angle = 180
+        servo2.angle = 180
+        servo3.angle = 180
+        servo4.angle = 180
     print(list_altitude)
     print(list_time)
     if list_altitude[-list_check_length] - list_altitude[-1] > 2 and launch == 1:
-        print("test")
         landed = 1
-Values=open(f"/{time.monotonic()}.csv","w")
+Values=open(f"/data/{time.monotonic()}.csv","w")
 for i in range(len(list_altitude)):
-    Values.write(f"{list_time[i]}, {list_altitude[i]}\n")
+    Values.write(f"{list_time[i]}{list_altitude[i]}\n")
 Values.close
     
     
