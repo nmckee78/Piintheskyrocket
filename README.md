@@ -145,11 +145,128 @@ Create code for data collection
 
 + Started coding for the data collection, got pretty stuck.
 
-+[Assembled Code](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
++ [Assembled Code](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
+
+### Week 6(Jan. 23rd - Jan. 27th)
+
+#### Goals
+
+Continue to work on code, brainstorm ideas to improve the rocket.
+
+#### Progress
+
++ Continued to try to work out the code, continued to be stuck
+
++ Brainstormed ideas to improve the rocket(Incl. Smaller nose cone, Weight reducing in bottom of rocket, better threads.
+
++ 3d printed first part of the rocket, went well
+
+### Week 7(Jan. 30th - Feb. 3rd)
+
+#### Goals
+
+Keep working on code, implement rocket ideas
+
+#### Progress 
+
++ Started to figure out the code but still not implementing it
+
++ Discussed more ways to reduce weight and increase efficency in the rocket 
+
++ Added more slits in bottom of rocket, 3d printed test threads(Did not work)
+
++ Made new threads 
+
+### Week 8(Feb. 6th - Feb. 10th)
+
+#### Goals
+
+Actually finish the code, get more pieces of the rocket, continue to refine rocket design
+
+#### Progress
+
++ Finished the code! 
+
++ [Final code](https://github.com/nmckee78/Piintheskyrocket/blob/main/servo_code).
+
++ Printed middle part of rocket, might need to redesign, kinda flimsy
+
++ Printed working threads 
+
++ Continued to improve cad design
+
++ Started to think about parachute implemenation
+
+
+### Week 9(Feb 13- Feb 17th)
+
+#### Goals
+
++ Make the parachute
+
++ Continue to Improve Cad
+
++ Start the circuit Board
 
 
 
+#### Progress
++ This week I made the parachute. I did this by cutting out a 50 cm radius circle from trash bag. I then put duck tape patchs around the edge for reinforcement, and punched holes for strings. I tied strings to the holes than tied all of those to a main cord and the parachute was done.
 
++ Continued to Redesign cad, added seperate spring holes and made the cone pointier and better
 
++ Started to brainstorm the Circuit Board
 
+### Week 10(Feb 20- Feb 24th)
 
+#### Goals
++ Test the Parachute
+
++ Print final cad design
+
++ Start Circuit Board
+
+#### Progress
+
++ We threw the parachute off the hill tied to a 2x4 and it succesfully deployed. At first it was not opening in time and we discoverd that to make it open fast enough we had too shorted the main cord and not fold it as many times. After this innnovation we succeded in making it work consistanly.
+
+![tttttttttttttttttttttttttttttttttttttttt](https://user-images.githubusercontent.com/71349802/228027597-664a32d2-6511-4d61-bc7f-eef399ca2184.gif)
+
++ Printed The rest of the Cad, it all worked well and as intended.
+<img src="images/cad.jpg" alt="Left View" width="250" height="250">
+
++ Started work on the circuit board, sodered in headers for the Pico and started work on the servos
+
+### Week 11(Feb 27th- Mar 3rd)
+
+#### Goals
+
+#### Progress
+
+### Week 12(Mar 6th- Mar 10th)
+
+#### Goals
+
+#### Progress
+
+### Week 13(Mar 13th- Mar 17th)
+
+#### Goals
+
+#### Progress
+
+### Week 14(Mar 20th- Mar 24th)
+
+#### Goals
+
+#### Progress
+
+### Week 15(Mar 27th- Mar 31st)
+
+#### Goals
+
+#### Progress
+
+### Launch 1
+
+The first launch very nearly worked. Everything went correctly, the cone latched on, the servos were working and the rocket went in a perfect parabolic arc. However, even though the servos unlatched, the cone never fully popped off, meaning the parachute never deployed and after perfectly flying through the air it crashed into the ground and shatterd. Luckily, the circuit board and all the electronics were protected but nearly all the rest of the rocket was destroyed.
