@@ -60,6 +60,16 @@ March 1 < T < April 1, Installation and testing of electronics and tracking devi
 
 April 1 < T < Spring break, Final testing and tweaking
 
+#ONSHAPE
+
+Base- To make the base we stole Wills picture of a bottle and traced it with a spline. We then revolved it and cut weight reduceing gaps in the base. We also cut the base in half so thatis can be bolted together with a flange.
+
+Threads- The threads at the top of the base were homemade from scratch. We drew a helix and then revolved a triangle around the helix. The other piece was then boleaned from the new threads to make the finished product. The result was buttery smooth threads with no thread tool needed. Nice!
+
+Warhead- The warhead took a few trials and tribulations to get right. We started with a dome that had a inner cylinder to shield the parachute from the servos. We then decided to go to a cone shape with an inner cone, then just a cone with servo covers that shield the servos. This left us with more space for the parachute and easier deployment.
+
+Goodies compartment- The goodies compasrtment is where the majic happens, that holds all the electronicans and keeps them safe.
+
 ### Diagrams
 
 #### Rocket Diagram
