@@ -60,6 +60,16 @@ March 1 < T < April 1, Installation and testing of electronics and tracking devi
 
 April 1 < T < Spring break, Final testing and tweaking
 
+#ONSHAPE
+
+Base- To make the base we stole Wills picture of a bottle and traced it with a spline. We then revolved it and cut weight reduceing gaps in the base. We also cut the base in half so thatis can be bolted together with a flange.
+
+Threads- The threads at the top of the base were homemade from scratch. We drew a helix and then revolved a triangle around the helix. The other piece was then boleaned from the new threads to make the finished product. The result was buttery smooth threads with no thread tool needed. Nice!
+
+Warhead- The warhead took a few trials and tribulations to get right. We started with a dome that had a inner cylinder to shield the parachute from the servos. We then decided to go to a cone shape with an inner cone, then just a cone with servo covers that shield the servos. This left us with more space for the parachute and easier deployment.
+
+Goodies compartment- The goodies compasrtment is where the majic happens, that holds all the electronicans and keeps them safe.
+
 ### Diagrams
 
 #### Rocket Diagram
@@ -270,3 +280,11 @@ Actually finish the code, get more pieces of the rocket, continue to refine rock
 ### Launch 1
 
 The first launch very nearly worked. Everything went correctly, the cone latched on, the servos were working and the rocket went in a perfect parabolic arc. However, even though the servos unlatched, the cone never fully popped off, meaning the parachute never deployed and after perfectly flying through the air it crashed into the ground and shatterd. Luckily, the circuit board and all the electronics were protected but nearly all the rest of the rocket was destroyed.
+
+### Launch 2
+
+The second launch incorporated a system utilizeing rubber bands to yoink the cone off the nose of the rocket. We did not use enough rubber bands to succesfully extridite the cone from its post. The rocket went up in the air, and like launch 1, it ended in disaster. The cone, the cage, the mounting plate, the covers, the fins, all KIA. Also like the first launch, the goodies compartment and all the splendor hidden within, survived the the hit to live another day. Also like the first launch, it didnt record data for some reason. 
+
+### Launch 3
+
+After the tragic fate of rocket no.2 and its heroic crew, we knew somthing had to be done. We ditched the cone, and jerry rigged some rubber bands attached to the servos to hold the parachute down. The new contraption seemed fool proof. Nothing could go wrong, Right? Well somthing went very, very wrong. Was it an imposter? Was it mechanical failure? No one knew. Until recentally, the NO.3 rocket disaster was a mystery. Ground breaking new findings uncoverd in the notorius No. 3 rocket disaster flight data by me and my experienced team of experts, revealed somthing disturbing. The data was being read very very late by the board, meaning our servos had not been actuateing untill it was too late. Thankfully, the engineer behind the goodies compartment and the padding within is an absolute G, and the goodies compartment and its goodies within survived its third crash.
