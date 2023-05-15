@@ -288,3 +288,6 @@ The second launch incorporated a system utilizeing rubber bands to yoink the con
 ### Launch 3
 
 After the tragic fate of rocket no.2 and its heroic crew, we knew somthing had to be done. We ditched the cone, and jerry rigged some rubber bands attached to the servos to hold the parachute down. The new contraption seemed fool proof. Nothing could go wrong, Right? Well somthing went very, very wrong. Was it an imposter? Was it mechanical failure? No one knew. Until recentally, the NO.3 rocket disaster was a mystery. Ground breaking new findings uncoverd in the notorius No. 3 rocket disaster flight data by me and my experienced team of experts, revealed somthing disturbing. The data was being read very very late by the board, meaning our servos had not been actuateing untill it was too late. Thankfully, the engineer behind the goodies compartment and the padding within is an absolute G, and the goodies compartment and its goodies within survived its third crash.
+
+### Launch 4 - Success!
+![Success](https://github.com/nmckee78/Piintheskyrocket/blob/main/images/succesfullaunch.gif) 
