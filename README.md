@@ -250,14 +250,26 @@ Actually finish the code, get more pieces of the rocket, continue to refine rock
 ### Week 11(Feb 27th- Mar 3rd)
 
 #### Goals
++ Assemble Cad
+
++ Start Circuit Board Assembely
 
 #### Progress
++ Final cad design works, everything fits well and the new threads work
+
++ Started circuit board sodering, headers are in and work on pins for the servos has started
 
 ### Week 12(Mar 6th- Mar 10th)
 
 #### Goals
++ Continue work on circuit board
+
++ Start testing cad with code
 
 #### Progress
++ Servo headers sodered, circuit board nearing completion. 
+
++ Tested code(on the computer) and it works well with the cad. 
 
 ### Week 13(Mar 13th- Mar 17th)
 
