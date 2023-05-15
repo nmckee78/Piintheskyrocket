@@ -292,4 +292,5 @@ After the tragic fate of rocket no.2 and its heroic crew, we knew somthing had t
 ### Launch 4 - Success!
 
 Rocket no 4 is legendary. We launched from the bad launcher, so we could not read the pressure and put way too little in. It ended in a low, sub orbital launch. The rocket was coming down and everyone thought it was doomed. At the last second, the parachute deployed perfectly, turned the rocket, and it lived. The rocket survived uninjured and ready top go. The moral of the story is that the parachute manufacturer, one of the best in the world, designed a parachute that will open and slow the payload down in mila second. The brilliance on the part of whoever made the parachute is astounding.
+
 ![Success](https://github.com/nmckee78/Piintheskyrocket/blob/main/images/succesfullaunch.gif) 
