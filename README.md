@@ -274,22 +274,73 @@ Actually finish the code, get more pieces of the rocket, continue to refine rock
 ### Week 13(Mar 13th- Mar 17th)
 
 #### Goals
++ Finish Circuit Board
+
++ Start testing circuit board with the cad
 
 #### Progress
++ Completed the circuit board
+
++ Sodered button onto cad & circuit board to release the servos
+
++ Tested the circuit board, it functions but servos weren't working
 
 ### Week 14(Mar 20th- Mar 24th)
 
 #### Goals
++ Problem solve with servo issue 
+
++ Make sure circuit board functions the way we want it to
 
 #### Progress
++ Troubleshoooted the servos, didn't make much progress
+
++ Tried to get data collection working
 
 ### Week 15(Mar 27th- Mar 31st)
 
 #### Goals
++ Fix the servos 
+
++ Soder a switch for data mode/code mode switching
+
+#### Progress
++ Managed to get the servos working(Had to rearange the wiring for the power on the circuitboard)
+
++ Sodered the switch on
+
++ Started to prepare for launch
+
+### Week 16(Apr 10th- Apr 14th)
+
+#### Goals
+
 
 #### Progress
 
-### Week 26 (May 8th - May 12th)
+
+### Week 17(Apr 17th- Apr 21th)
+
+#### Goals
+
+
+#### Progress
+
+### Week 18(Apr 24th- Apr 28th)
+
+#### Goals
+
+
+#### Progress
+
+### Week 19(May 1st- May 5th)
+
+#### Goals
+
+
+#### Progress
+
+### Week 20 (May 8th - May 12th)
 
 ### Goals- Have a successful launch
 
