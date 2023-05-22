@@ -314,52 +314,105 @@ Actually finish the code, get more pieces of the rocket, continue to refine rock
 ### Week 16(Apr 10th- Apr 14th)
 
 #### Goals
++ Launch the rocket
 
++ Troubleshoot if things go wrong
 
-#### Progress
+### Launch 1
 
+![Launch 1](https://github.com/nmckee78/Piintheskyrocket/blob/main/images/Launch%201.gif) 
+
+The first launch very nearly worked. Everything went correctly, the cone latched on, the servos were working and the rocket went in a perfect parabolic arc. However, even though the servos unlatched, the cone never fully popped off, meaning the parachute never deployed and after perfectly flying through the air it crashed into the ground and shatterd. Luckily, the circuit board and all the electronics were protected but nearly all the rest of the rocket was destroyed. We didn't have the code working to collect data properly so no data for this launch.
+
+### Progress
+
++ Started to brainstorm what we did wrong
+
++ Reprinted the broken parts
 
 ### Week 17(Apr 17th- Apr 21th)
 
 #### Goals
 
++ Brainstorm ways to get rocket to land safely
+
++ Succesfully launch the rocket
+
+### Launch 2
+
+![Launch 2](https://github.com/nmckee78/Piintheskyrocket/blob/main/images/Launch%202.gif) 
+
+The second launch incorporated a system utilizeing rubber bands to yoink the cone off the nose of the rocket. We did not use enough rubber bands to succesfully extridite the cone from its post. The rocket went up in the air, and like launch 1, it ended in disaster. The cone, the cage, the mounting plate, the covers, the fins, all KIA. Also like the first launch, the goodies compartment and all the splendor hidden within, survived the the hit to live another day. Also like the first launch, it didnt record data for some reason. 
 
 #### Progress
+
++ Brainstrom a new way to deploy the parachute
+
++ Print new parts to replace the old ones
+
++ Get the code to actually collect data
 
 ### Week 18(Apr 24th- Apr 28th)
 
 #### Goals
 
++ Get a new way to deploy the parachute
+
++ Test the code to make sure it actaully collects data
+
++ Have all the parts ready to launch
 
 #### Progress
+
++ Got the code to actaully collect data
+
++ Decided to ditch a cone and have the parachute open to the elements with a single rubber band holding it down, which releases when the servo spins when it starts going down
 
 ### Week 19(May 1st- May 5th)
 
 #### Goals
 
++ Launch the new rocket design
 
-#### Progress
-
-### Week 20 (May 8th - May 12th)
-
-### Goals- Have a successful launch
-
-### Progress- We weren't here a lot due to AP testing, but on friday we were and we had our first successful launch. 
-
-### Launch 1
-
-The first launch very nearly worked. Everything went correctly, the cone latched on, the servos were working and the rocket went in a perfect parabolic arc. However, even though the servos unlatched, the cone never fully popped off, meaning the parachute never deployed and after perfectly flying through the air it crashed into the ground and shatterd. Luckily, the circuit board and all the electronics were protected but nearly all the rest of the rocket was destroyed.
-
-### Launch 2
-
-The second launch incorporated a system utilizeing rubber bands to yoink the cone off the nose of the rocket. We did not use enough rubber bands to succesfully extridite the cone from its post. The rocket went up in the air, and like launch 1, it ended in disaster. The cone, the cage, the mounting plate, the covers, the fins, all KIA. Also like the first launch, the goodies compartment and all the splendor hidden within, survived the the hit to live another day. Also like the first launch, it didnt record data for some reason. 
++ Get recorded data
 
 ### Launch 3
 
-After the tragic fate of rocket no.2 and its heroic crew, we knew somthing had to be done. We ditched the cone, and jerry rigged some rubber bands attached to the servos to hold the parachute down. The new contraption seemed fool proof. Nothing could go wrong, Right? Well somthing went very, very wrong. Was it an imposter? Was it mechanical failure? No one knew. Until recentally, the NO.3 rocket disaster was a mystery. Ground breaking new findings uncoverd in the notorius No. 3 rocket disaster flight data by me and my experienced team of experts, revealed somthing disturbing. The data was being read very very late by the board, meaning our servos had not been actuateing untill it was too late. Thankfully, the engineer behind the goodies compartment and the padding within is an absolute G, and the goodies compartment and its goodies within survived its third crash.
+Before this launch, the launcher that we had been using broke meaning we had to use the other one which didn't properly read pressure. This meant we didn't know how much pressure so we launched it with not enough pressure so it went about 10 feet in the air before it came crashing back down, which was not enough time for the parachute to deploy. However, it did record data. This data made us realize that the altimeter wasn't taking data fast enough so the servos would never spin in time.(We don't have a video for this one)
+
+#### Progress
+
++ Made the altimeter take data a lot faster, meaning the parachute should actaully be able to deploy
+
++ Reprinted the parts to get ready for a launch next week.
+
+### Week 20 (May 8th - May 12th)
+
+### Goals
++ Succesful launch and nice data
 
 ### Launch 4 - Success!
 
-Rocket no 4 is legendary. We launched from the bad launcher, so we could not read the pressure and put way too little in. It ended in a low, sub orbital launch. The rocket was coming down and everyone thought it was doomed. At the last second, the parachute deployed perfectly, turned the rocket, and it lived. The rocket survived uninjured and ready top go. The moral of the story is that the parachute manufacturer, one of the best in the world, designed a parachute that will open and slow the payload down in mila second. The brilliance on the part of whoever made the parachute is astounding.
-
 ![Success](https://github.com/nmckee78/Piintheskyrocket/blob/main/images/succesfullaunch.gif) 
+
+This launch we used the faulty launcher again, but were knew how much pressure we needed due to extensive testing beforehand. The launch actaully got far enough into the air this time but again looked like a fail as it came crashing back down to earth, however with maybe 1 second before impact, the parachute deployed and flipped the rocket, saving it from its impending death as it landed softly on the ground. 
+
+### Progress
++ We were only both here friday due to AP testing all week
+
+### Week 21 (May 15th - 19th)
+
+### Goals
++ Smoother launch
+
+### Launch 5 - Perfection 
+
+![Perfection](https://github.com/nmckee78/Piintheskyrocket/blob/main/images/Launch%203.gif) 
+
+We again used the faulty launcher but used a bit more pressure this time for better results. We launched this twice, with both launches being succesful, but the second being very nearly perfect. We launched it off the hill into the baseball field to give it more time of flight which made the launch cooler.
+
+### Progress
++ Started documentation after finishing our launch
+
+
+
