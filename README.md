@@ -414,5 +414,15 @@ We again used the faulty launcher but used a bit more pressure this time for bet
 ### Progress
 + Started documentation after finishing our launch
 
+### Data
+
+#### Launch 4 Data 
+![Launch 3](https://github.com/nmckee78/Piintheskyrocket/blob/main/images/Launch%203%20data.PNG) 
+This data was our first succesful data collection, but given the parachute didn't open till very late, you can't see it on the readings
+
+#### Launch 5 data 
+![Launch 5](https://github.com/nmckee78/Piintheskyrocket/blob/main/images/Launch%204%20data.PNG)
+This data clearly shows how the minute it starts coming down, the parachute deploys and slows the rocket down.
+
 
 
